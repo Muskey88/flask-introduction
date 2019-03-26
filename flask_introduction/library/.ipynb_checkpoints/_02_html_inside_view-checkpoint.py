@@ -18,8 +18,6 @@ def hello_world():
     html = """
         <html>
             <h1>Welcome to my website</h1>
-            <ul> 
-            
         </html>
     """
     authors = ["Alan Poe", "Jorge L. Borges", "Mark Twain"]
